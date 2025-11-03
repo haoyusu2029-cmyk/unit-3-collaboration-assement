@@ -1,6 +1,6 @@
 # Short response questions
 
-1. each classmate should do git add ., git commit -m,and git push to save the work and they should check if there are any changes in main
+1. Each team member needs to be added into the code space, it is important because without a teammate you cant pull and merge your work
 
 2. Developers use branches to test out something new without making any changes to main
 
